@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/IntLinkedList.cpp
+IntLinkedList.h
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/IntLinkedList.h
+LinkedNode.h
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/LinkedNode.h
+stdexcept
+-
+
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/IntLinkedList.h
+string
+-
+LinkedNode.h
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/LinkedNode.h
+IntList.h
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/IntList.h
+
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/IntList.h
+stdexcept
+-
+
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/Lab8Tester.cpp
+iostream
+-
+IntLinkedList.h
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/IntLinkedList.h
+
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/LinkedNode.cpp
+LinkedNode.h
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/LinkedNode.h
+
+/Users/dshane/Documents/Dylan Homework/COLLEGE/Junior Year/Comp220/Lab08_b/LinkedNode.h
+
